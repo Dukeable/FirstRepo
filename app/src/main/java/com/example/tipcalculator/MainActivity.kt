@@ -10,7 +10,7 @@ import android.widget.EditText
 import android.widget.SeekBar
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-
+// Git Commit test
 private const val TAG = "MainActivity"
 private const val INITIAL_TIP_PERCENT = 15
 class MainActivity : AppCompatActivity() {
